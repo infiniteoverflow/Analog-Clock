@@ -2,6 +2,6 @@
 
 A Clock built using CustomPainter !!
 
-![](working.gif)
+<img src="working.gif" height=550 width=280/>
 
 **Credits :** https://www.youtube.com/watch?v=HyAeZKWWuxA
